@@ -17,3 +17,8 @@ This project uses Python 3.7 and imports the following packages:
 2- Performed volatility calculations and determined portfolios' risk-adjusted profiles.
 
 3- Calculated portfolios' betas and selected the fund that optimizes for diversification.
+
+## Contributors
+
+Aquiba Benarroch, CFA
+aquiba.me
