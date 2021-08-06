@@ -12,11 +12,13 @@ This project uses Python 3.7 and imports the following packages:
 
 ## Lessons Learned
 
-1- Analyzed the returns of the portfolios over the timeframe.
+1- Automated rate-of-return calculations for various assets and portfolios.
 
-2- Performed volatility calculations and determined portfolios' risk-adjusted profiles.
+2- Quantified risk by using standard deviations and Sharpe ratios.
 
-3- Calculated portfolios' betas and selected the fund that optimizes for diversification.
+3- Compared the performance of portfolios across distinct risk metrics.
+
+4- Analyzed the diversification of portfolios by using the variance, the covariance, the beta, and rolling metrics.
 
 ## Contributors
 
