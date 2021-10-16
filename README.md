@@ -1,4 +1,4 @@
-# Analysis of Investment Portfolios (Challenge #4 of FinTech Bootcamp)
+# Analysis of Investment Portfolios
 
 In this challenge, I evaluated the performance, volatility, and risk profiles of investment portfolios, and compared them against a benchmark. 
 
@@ -25,4 +25,5 @@ This project uses Python 3.7 and imports the following packages:
 ## Contributors
 
 Aquiba Benarroch, CFA
+
 aquiba.me
