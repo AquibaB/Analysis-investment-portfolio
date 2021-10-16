@@ -7,7 +7,9 @@ In this challenge, I evaluated the performance, volatility, and risk profiles of
 This project uses Python 3.7 and imports the following packages:
 
 [pandas](https://pandas.pydata.org/docs/) - For data structuring and analysis.
+
 [pathlib](https://docs.python.org/3/library/pathlib.html) - For path-hadling operations.
+
 [numpy](https://numpy.org/devdocs/) - For volatility calculations.
 
 ## Lessons Learned
